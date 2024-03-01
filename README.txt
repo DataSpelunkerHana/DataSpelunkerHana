@@ -1,1 +1,1 @@
-I'm an aspiring Data Analyst and I am currently studying and practicing data analysis. I love to look for patterns in datasets and dive into the world of data science. I believe data can be used to help us understand problems, make decisions and drive business outcomes.
+
